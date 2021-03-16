@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Prashanthi S @PSsudo
 - 💞️ I’m interested in Full Stack, currently working as a DevOps Engineer with AWS and Containers
-- 💻 Beginner, learning a lot of stuff
+- 💻 My website - www.rootuser.live
+- 🌱 Beginner, learning a lot of stuff
 - 👀 Looking for a mentor 
 - 📫 You can reach me here
